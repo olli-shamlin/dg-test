@@ -1,1 +1,9 @@
-[]
+[
+{
+		"title": "Welcome",
+		"date":"Wed Nov 26 2025 12:34:25 GMT+0000 (Coordinated Universal Time)",
+		"url":"/",
+		"content": "This is your new vault.\nWhen you're ready, delete this note and make the vault your own.\nI'm a tryin'!\nGood golly.\nNote updated at 701 AM; no really I changed this note.",
+		"tags": [ "note","gardenEntry"]
+}
+]
